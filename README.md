@@ -1,6 +1,13 @@
-Bu proje, Android Studio kullanarak geliştirilen bir Android uygulaması olacaktır. Uygulama, Firebase Realtime Database'i kullanarak, bilgisayar bileşenlerinin kısaltmalarını alacak ve açıklamaları gösterecektir. Firebase'deki veritabanı, her bileşenin kısaltması ve açıklamasını içerecek şekilde yapılandırılacaktır.
+# Proje Adı
 
-Proje İçeriği:
-Firebase Realtime Database'i kullanarak kısaltmalar ve açıklamalar depolanacak.
-Android Studio'da kullanıcıların kısaltmaları girebileceği bir arayüz olacak.
-Kullanıcı, bir kısaltma girdiğinde, Firebase'den bu kısaltmaya karşılık gelen açıklama çekilecek ve ekranda gösterilecek.
+Bu projede Android Studio ile Firebase kullanarak bilgisayar bileşenlerinin kısaltmalarını ve açıklamalarını görüntüleyen bir uygulama geliştirilmiştir.
+
+## Uygulama Arayüzü
+
+Aşağıdaki fotoğraf, uygulamanın ana ekranını göstermektedir:
+
+![Uygulama Ana Ekranı](images/screenshot.png)
+
+## Kullanım
+
+- Firebase veritabanındaki kısaltmalar ile bilgisayar bileşenlerinin açıklamaları sorgulanabilir.
