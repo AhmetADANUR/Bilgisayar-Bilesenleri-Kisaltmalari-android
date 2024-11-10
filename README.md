@@ -6,7 +6,7 @@ Bu projede Android Studio ile Firebase kullanarak bilgisayar bileşenlerinin kı
 
 Aşağıdaki fotoğraf, uygulamanın ana ekranını göstermektedir:
 
-![Uygulama Ana Ekranı](images/image (1).png)
+![Uygulama Ana Ekranı](images/image1.png)
 
 ## Kullanım
 
