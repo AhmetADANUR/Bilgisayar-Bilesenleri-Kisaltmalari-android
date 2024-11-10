@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437333731096",
+    "project_id": "donemodev-aaa8a",
+    "storage_bucket": "donemodev-aaa8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437333731096:android:ea4825cedee2d2740d206d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR_HDM1eguE3EmIuBQCpWJXOyYWHJfw1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
